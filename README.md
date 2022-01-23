@@ -1,0 +1,3 @@
+# medical-pager ( work in progress! )
+
+a realtime chat app with all the features...
