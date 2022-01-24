@@ -56,7 +56,7 @@ const UserList = ({ setSelectedUsers }) =>  {
 
         try {
             const response = await client.queryUsers(
-                { id: { $ne: client.userID }}, // ne is not equal to
+                { id: {$ne: client.userID} }, 
                 { id: 1},
                 { limit: 8 }    
             )
