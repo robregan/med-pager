@@ -1,3 +1,3 @@
-# medical-pager ( work in progress! )
+# medical-pager (dev version. Please see the new repo for more details)
 
-a realtime chat app with all the features...
+moving this repo over to https://github.com/robregan/employee-chat 
